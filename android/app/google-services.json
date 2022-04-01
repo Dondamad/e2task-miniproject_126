@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746108023779",
+    "project_id": "e2task-app",
+    "storage_bucket": "e2task-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746108023779:android:4b1cbde06581873a6a26d6",
+        "android_client_info": {
+          "package_name": "dev.dondm.tasking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746108023779-o5h796g778ph95modfrgagor2043hj2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.dondm.tasking",
+            "certificate_hash": "8883afee4fee931cb0045a12cee80f3c405c2291"
+          }
+        },
+        {
+          "client_id": "746108023779-j21hnda3kmearsnkaqp6md7tbnig6080.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdUBjARb83wBYYG-HciQ9tDVdM22_Kw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746108023779-j21hnda3kmearsnkaqp6md7tbnig6080.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
